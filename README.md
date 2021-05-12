@@ -1,7 +1,7 @@
 # Hi there I’m Note CS student 👋
 ### My name is Thanakorn Aungkunchuchod 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rabbitnote&show_icons=true&theme=jolly)]()
-I’m just a beginner for coding 😂
+I’m just a beginner for coding 😂()
 The Most Language I use to wrote!!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rabbitnote&layout=compact&theme=jolly)]()
 <!--
