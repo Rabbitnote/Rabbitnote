@@ -8,8 +8,8 @@ I’m just a beginner for coding 😂
 
 ### Top Language I was code!!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rabbitnote&layout=compact&theme=jolly)]()
-
-[![Apple Music GitHub profile](https://apple-music-github-profile.rayriffy.com/theme/light.svg?uid=001901.ec5e4c62f5e44b369153437781a3cdc7.1306)](https://github.com/rayriffy/apple-music-github-profile)
+<!-- 
+[![Apple Music GitHub profile](https://apple-music-github-profile.rayriffy.com/theme/light.svg?uid=001901.ec5e4c62f5e44b369153437781a3cdc7.1306)](https://github.com/rayriffy/apple-music-github-profile) -->
 <!--
 **Rabbitnote/Rabbitnote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
