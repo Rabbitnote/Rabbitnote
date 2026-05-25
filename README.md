@@ -2,7 +2,7 @@
 ### Thanakorn Aungkunchuchod — Full-Stack Developer
 
 🎓 CS grad from KMUTT (3.5 years) · 🇹🇭 Bangkok, Thailand  
-🔗 [Portfolio](https://portfolio-rabbitnotes-projects.vercel.app) · [LinkedIn](https://linkedin.com/in/thanakorn) · [Email](mailto:thanakorn.note@outlook.com)
+🔗 [Portfolio](https://portfolio-rabbitnotes-projects.vercel.app) · [LinkedIn](https://www.linkedin.com/in/thanakorn-aungkunchuchod-8777631b9/) · [Email](mailto:thanakorn.note@outlook.com)
 
 ---
 
