@@ -1,6 +1,6 @@
 # Hi there I’m Note CS student 👋
 ### My name is Thanakorn Aungkunchuchod 
-### [My Personal Wesbite]([https://rabbit-rabbitnote.vercel.app/]
+### [My Personal Wesbite]([(https://portfolio-rabbitnotes-projects.vercel.app/)])
 
 <!-- 
 [![Apple Music GitHub profile](https://apple-music-github-profile.rayriffy.com/theme/light.svg?uid=001901.ec5e4c62f5e44b369153437781a3cdc7.1306)](https://github.com/rayriffy/apple-music-github-profile) -->
