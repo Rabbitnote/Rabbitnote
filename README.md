@@ -1,6 +1,6 @@
 # Hi there I’m Note CS student 👋
 ### My name is Thanakorn Aungkunchuchod 
-### [My Personal Wesbite](https://rabbit-rabbitnote.vercel.app/)
+### [My Personal Wesbite]([https://rabbit-rabbitnote.vercel.app/](https://portfolio-rabbitnotes-projects.vercel.app/))
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rabbitnote&show_icons=true&theme=jolly)]()
 
